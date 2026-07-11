@@ -1,0 +1,1 @@
+from .email_detector import analyze_email

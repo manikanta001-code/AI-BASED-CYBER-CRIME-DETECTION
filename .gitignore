@@ -1,0 +1,4 @@
+hackathon 2/.venv/
+hackathon 2/.env
+**/__pycache__/
+*.pyc
